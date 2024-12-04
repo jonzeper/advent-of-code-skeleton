@@ -1,0 +1,9 @@
+# Keys can be references to text files to use as input, or standalone strings to use as input.
+# Values are the expected result for the given input.
+part_1:
+  test.txt: 5
+  input.txt: 9
+  "1 2": 3
+part_2:
+  test.txt: 0
+  input.txt: 0
